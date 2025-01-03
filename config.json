@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "password": "",
+    "password": "jaysmith@bot",
     "permission": "yes"
   },
   "runDuration": {
@@ -8,7 +8,7 @@
     "value": 30, // max 180 for days, 18 for weeks, 3 for months
     "notes": "Set the duration for the bot to run, with constraints on the number of days (max 180), weeks (max 18), and months (max 3)."
   },
-  "antiInbox": false,
+  "antiInbox": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
@@ -16,32 +16,31 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "61557703289417",
+    "61560050885709"
   ],
   "ownerBot": [
-    "owner_uid_here"
+    "61560050885709"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "61560050885709"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
-  "prefix": "/",
-  "ArYanapi": "https://aryan-rest-api.onrender.com",
+  "nickNameBot": "𝗚𝗼𝗮𝘁𝗯𝗼𝘁-𝘃3 𝗯𝗼𝘁",
+  "prefix": ".",
+  "yourapi": "",
   "api": "",
-  "api2": "",
-  "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
-  "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
-  "insta": "no",
-  "age": "18+",
+  "authorName": "",
+  "facebook2": "",
+  "facebook": "",
+  "email": "",
+  "replit": "",
+  "github": "",
+  "insta": "",
+  "age": "",
   "TG": "",
   "database": {
     "type": "sqlite",
@@ -155,7 +154,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7271330272945067"
+      ""
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the con[...]
