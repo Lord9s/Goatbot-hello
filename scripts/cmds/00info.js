@@ -15,12 +15,12 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸ArYAN⩸ ";
-		const ownAge = "『 ⩸__17__⩸ 』";
-		const messenger = "https://m.me/aryan.x.404";
-		const authorFB = "https://www.facebook.com/aryan.x.404";
-		const authorNumber = "+8801894253289";
-		const Status = "single";
+		const authorName = " ⩸jayden⩸ ";
+		const ownAge = "『 ⩸__18+__⩸ 』";
+		const messenger = "https://m.me/lordjaydenSmith.1";
+		const authorFB = "https://www.facebook.com/lordjaydenSmith.1";
+		const authorNumber = "👈🙂👉";
+		const Status = "taken";
 		const urls = [
 "",
 "",
@@ -51,11 +51,10 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 :⩸__${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: https://t.me/ArYANAHMEDRUDRO
-    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/aryan_404?
-    𝑪𝒂𝒑𝑪𝒖𝒕: copy_bayjid
-    𝑻𝒊𝒌𝑻𝒐𝒌: https://www.tiktok.com/@utz_aryan_404?
-    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/@Vex_ArYAN
+    𝑻𝒈: https://t.me/jaydenemith.2
+    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/lordking9857 
+    𝑻𝒊𝒌𝑻𝒐𝒌: https://www.tiktok.com/@jaydenemith 
+    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/@lord_jay78
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
