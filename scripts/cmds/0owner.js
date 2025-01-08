@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'ArYAN',
+      name: 'jaydeb',
       gender: 'Male',
-      age: '17+',
+      age: '18+',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/aryan.x.404',
-      nick: 'BIJU'
+      facebookLink: 'https://www.facebook.com/lordjaydenSmith.1,
+      nick: 'Jay'
     };
 
     const bold = '.....'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
