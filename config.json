@@ -4,8 +4,8 @@
     "permission": "yes"
   },
   "runDuration": {
-    "unit": "days", // options: days, weeks, months
-    "value": 30, // max 180 for days, 18 for weeks, 3 for months
+    "unit": "days",
+    "value": 30,
     "notes": "Set the duration for the bot to run, with constraints on the number of days (max 180), weeks (max 18), and months (max 3)."
   },
   "antiInbox": true,
